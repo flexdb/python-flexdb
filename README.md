@@ -2,10 +2,7 @@
 
 FlexDB is a flexible, free-to-use database service that allows for instant and seamless integration through its REST API. This library, `python-flexdb`, provides an easy-to-use Python wrapper around the [FlexDB](https://flexdb.co) REST API.
 
-[[[!github stars](https://img.shields.io/github/stars/flexdb/py-flexdb)](https://github.com/flexdb/py-flexdb)
-[[[!pypi version](https://img.shields.io/pypi/v/flexdb)](https://pypi.org/project/flexdb)
-[[[!pypi downloads](https://img.shields.io/pypi/dm/flexdb)](https://pypi.org/project/flexdb)
-[[[!license](https://img.shields.io/pypi/l/flexdb)](LICENSE.md)
+[![github stars](https://img.shields.io/github/stars/flexdb/py-flexdb)](https://github.com/flexdb/py-flexdb) [![pypi version](https://img.shields.io/pypi/v/flexdb)](https://pypi.org/project/flexdb) [![pypi downloads](https://img.shields.io/pypi/dm/flexdb)](https://pypi.org/project/flexdb) [![license](https://img.shields.io/pypi/l/flexdb)](LICENSE.md)
 
 ## Installation
 
