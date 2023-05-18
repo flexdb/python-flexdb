@@ -1,0 +1,8 @@
+# requirements.txt
+
+# Packages required for use
+requests==2.27.1
+
+# Packages required for testing
+pytest==7.3.1
+python-dotenv==0.20.0
