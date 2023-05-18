@@ -1,4 +1,4 @@
-# FlexDB
+# FlexDB (Python)
 
 FlexDB is a flexible, free-to-use database service that allows for instant and seamless integration through its REST API. This library, `python-flexdb`, provides an easy-to-use Python wrapper around the [FlexDB](https://flexdb.co) REST API.
 
